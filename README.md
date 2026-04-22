@@ -24,7 +24,7 @@ Whether it’s implementing service-oriented architectures, migrating monoliths 
 
 ### Work Experience
 
-- **Client: BestBuy, Minnesota -- sep-2024 - present**
+- **Client: BestBuy, Minnesota -- sep-2024 - March-2026**
 - **Role- Full Stack Java Developer:**
 I assisted in the full Software Development Life Cycle (SDLC), including design, development, testing, and integration of web-based and client/server applications using Java/J2EE technologies. I worked extensively with Spring MVC, Hibernate, and Spring Boot to develop RESTful and SOAP-based microservices, deploying them on Docker and AWS EC2. Leveraging Agile methodology, I implemented new features, wrote complex SQL queries, and utilized Hibernate for data access and manipulation. I also contributed to frontend development using Angular 7, React.js, and other technologies like Bootstrap, HTML, CSS, and JavaScript. In addition, I was involved in DevOps activities, configuring Jenkins for Continuous Integration/Delivery (CI/CD), automating jobs with UNIX shell scripts, and managing Docker containers for efficient environment provisioning. My work with Apache Kafka enabled reliable, asynchronous data exchange across business applications, and I also migrated legacy AngularJS components to Angular 7 to improve responsiveness and reduce dependencies.
 
@@ -36,14 +36,6 @@ I contributed to the development and testing of the Streamlets module, including
 - **Client: Magellan Financial, Topeka, KS -- Nov 2021 – Feb 2023**
 - **Role: Java Full Stack Developer:**
 I developed dynamic web pages using JSPs, Servlets, and JavaScript, and built workflow-based applications with Spring MVC, Hibernate, and AJAX, deployed on Apache Tomcat. I integrated Struts with Spring, designed SOAP and RESTful web services, and configured Hibernate for CRUD operations. I enhanced the UI with AngularJS, jQuery, and JavaScript and built a microservices library using Spring Boot and AWS. Additionally, I designed the internal login page with Bootstrap 4, created Java Beans, and documented the Mazda Customer Engage Portal's functional and technical aspects. I used JIRA for tracking tasks and bugs throughout the process.
-
-- **Client: Ziply fiber, Washington DC -- May 2020- Oct 2021**      
-- **Role: Software Developer:** 
-I designed and developed REST-based microservices using Spring Boot, JSP, HTML, AJAX, and jQuery, delivering APIs in an agile environment. I applied design patterns like Singleton and Factory for maintainable code and developed modules with Spring Batch, Apache Camel, and Hibernate. I created unit tests with JUnit, logged with SLF4j+Log4j, and optimized Oracle queries for performance. Additionally, I integrated AngularJS with backend APIs, worked with IBM MQ for messaging, and automated transaction reports with Groovy scripts.
-
-- **Client: Sutherland Global Technology, India -- Aug 2017 - Dec 2019**       
-- **Role: Software Developer:**
-I worked in an Agile environment, contributing to design, development, and testing. I built responsive web interfaces using HTML5, CSS3, JavaScript, React JS, and Bootstrap, and developed Spring MVC controllers with Spring AOP for security and transaction management. I focused on Single Page Applications (SPAs) with React JS, using Redux and Flux architecture, and implemented RESTful web services with Hibernate. I deployed the application on Apache Tomcat, managed builds with Maven, and used JIRA, Jenkins, and Selenium for CI/CD and automated testing.
 
 ---
 
