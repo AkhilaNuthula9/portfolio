@@ -24,7 +24,7 @@ Whether it’s implementing service-oriented architectures, migrating monoliths 
 
 ### Work Experience
 
-- **Client: BestBuy, Minnesota -- sep-2024 - March-2026**
+- **Client: BestBuy, Minnesota -- sep 2024 - March 2026**
 - **Role- Full Stack Java Developer:**
 I assisted in the full Software Development Life Cycle (SDLC), including design, development, testing, and integration of web-based and client/server applications using Java/J2EE technologies. I worked extensively with Spring MVC, Hibernate, and Spring Boot to develop RESTful and SOAP-based microservices, deploying them on Docker and AWS EC2. Leveraging Agile methodology, I implemented new features, wrote complex SQL queries, and utilized Hibernate for data access and manipulation. I also contributed to frontend development using Angular 7, React.js, and other technologies like Bootstrap, HTML, CSS, and JavaScript. In addition, I was involved in DevOps activities, configuring Jenkins for Continuous Integration/Delivery (CI/CD), automating jobs with UNIX shell scripts, and managing Docker containers for efficient environment provisioning. My work with Apache Kafka enabled reliable, asynchronous data exchange across business applications, and I also migrated legacy AngularJS components to Angular 7 to improve responsiveness and reduce dependencies.
 
